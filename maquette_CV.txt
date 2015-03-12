@@ -1,0 +1,4 @@
+1. Header => logo sur un fond blanc
+2. Nav => Presentation/Competence/Formation/divers
+3. Body => Tout sur la même page, pour un simple défilement, dans l'ordre suivant: presentation/competence/formations puis divers. Avec une bouton pour venir en haut de la page. 
+4. Footer => divers
